@@ -38,10 +38,15 @@ To run this WordPress project locally or on your own server, follow these steps:
 
 6. Deploy the website for public access.
 
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Demo 
+
+https://github.com/IPH-Technologies-Pvt-Ltd/HairSalon-WordPress/assets/100776437/f216a22a-90ae-4999-bbf1-3f8ec4942519
+
+
+
 
 
